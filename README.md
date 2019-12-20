@@ -1,6 +1,10 @@
 【JavaScript】一个好汉多个帮，JavaScript强大的工具群 - JavaScript Tooling
 ======================================================================
 
+## Youtube视频讲解
+
+https://youtu.be/Xf7832hHKX8
+
 ## 知识点
 
 + JavaScript的工具群
